@@ -3,7 +3,7 @@ export function makePerson(name:string, age:number){
 }
 export function testMakePerson(){
     console.log(
-        makePerson('Jang', 22),
+        makePerson('Jane', 22),
         makePerson('Jack', 33)
     )
 }
