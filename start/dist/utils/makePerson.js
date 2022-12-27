@@ -6,7 +6,7 @@ function makePerson(name, age) {
 }
 exports.makePerson = makePerson;
 function testMakePerson() {
-    console.log(makePerson('Jang', 22), makePerson('Jack', 33));
+    console.log(makePerson('Jane', 22), makePerson('Jack', 33));
 }
 exports.testMakePerson = testMakePerson;
 //# sourceMappingURL=makePerson.js.map
